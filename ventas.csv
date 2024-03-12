@@ -1,0 +1,4 @@
+﻿pizza_id,order_id,pizza_name_id,quantity,order_date,order_time,unit_price,total_price,pizza_size,pizza_category,pizza_ingredients,pizza_name
+"1.00,1.00,hawaiana_m,1.00,1/1/2015,11:38:36,13.25,13.25,M,Clasica,""Jamon rebanado, Pina, Queso mozarella"",Pizza Hawaiana"
+"2.00,2.00,clasica_dlx_m,1.00,1/1/2015,11:57:40,16.00,16,M,Clasica,""Pepperoni, Champiñones, Cebollas rojas, Pimientos rojos, Tocino"", Pizza Clasica Deluxe"
+"3.00,2.00,cinco_quesos_l,1.00,1/1/2015,11:57:40,18.50,18.5,L,Vegana,""Queso mozarella, Queso provolone, Queso ahumado , Queso gouda, Queso romano, Queso azul, Ajo"",The Five Cheese Pizza"
